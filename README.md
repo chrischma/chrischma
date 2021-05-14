@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi 👋
+
+I am Chris. I love code, food and dogs. 
+
+Find out more on my YouTube-Channel [here](https://www.youtube.com/c/programmieren).
+
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC0faHRYVxDn7chW573SSh8A?style=social)
 
 <!--
 **chrischma/chrischma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
