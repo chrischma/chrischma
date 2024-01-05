@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I am Chris. I love code, food and dogs. I am currently learning and teaching Python and JavaScript.
+I am currently learning and teaching Python and JavaScript.
 
 Find out more on my YouTube-Channel [here](https://www.youtube.com/c/programmieren).
 
