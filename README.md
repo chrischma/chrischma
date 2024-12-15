@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I am currently learning Python and JavaScript.
+I am currently learning Python, Go and JavaScript.
 
 Find out more on my YouTube-Channel [here](https://www.youtube.com/c/programmieren).
 
