@@ -6,6 +6,8 @@ Find out more on my YouTube-Channel [here](https://www.youtube.com/c/programmier
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC0faHRYVxDn7chW573SSh8A?style=social)
 
+In 2026, i moved from `Github` to `Codeberg`, a free and open source european alternative to `github`. You can find my public repos [here](https://codeberg.org/chrischma)
+
 <!--
 **chrischma/chrischma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
