@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I moved this profile to `codeberg` free and open source european alternative to `github`. You can find my public repos [here](https://codeberg.org/chrischma). See you there! 
+I moved this profile to `codeberg`, a free and open source european alternative to `github`. You can find my public repos [here](https://codeberg.org/chrischma). See you there! 
 
 <!--
 **chrischma/chrischma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
